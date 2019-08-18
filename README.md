@@ -10,9 +10,10 @@ pytz==2019.2
 sqlparse==0.3.0
 
 # Structure
+#### cipAPI: ####
+- Main app directory and contains models, serilizers, and views.
 
-
-
-
+#### data: ####
+- Data directory contains SQLite3 database, sample dataset and SQL queries for API URLs.
 
 
