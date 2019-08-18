@@ -11,7 +11,7 @@ Sample django based application (cipAPI) for database querying via API.
 
 # Structure
 #### cipAPI: ####
-- Main app directory and contains models, serilizers, and views.
+- Main app directory and contains models, serializers, and views.
 
 #### data: ####
 - Data directory contains SQLite3 database, sample dataset and SQL queries for API URLs.
